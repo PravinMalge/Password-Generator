@@ -42,3 +42,7 @@ A clean, minimal, and fast **Random Password Generator** built with HTML, CSS, a
 
 ---
 
+
+
+https://github.com/user-attachments/assets/1b9df05a-1f39-4dc0-9de5-9b5dac4dacf8
+
